@@ -67,10 +67,4 @@
   </a>
 </p>
 
----
 
-### 🐍 Dynamic Contributions
-
-<p align="center">
-  <img src="https://github.com/Kimjunhyuk0320/Kimjunhyuk0320/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-</p>
