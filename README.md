@@ -1,7 +1,10 @@
 <!-- 헤더 -->
-<h1 align="center">👋 Welcome to Kimjunhyuk0320's GitHub! 🚀</h1>
+<h1 align="center">🚀 Welcome to <span style="color:#4CAF50;">Kimjunhyuk0320's GitHub</span>! 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&width=435&lines=👨‍💻+Developer+and+Engineer;💡+Innovating+with+Robotics+and+AI;🌟+Always+Learning+New+Things" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=28&duration=4000&pause=500&color=F39C12&center=true&vCenter=true&width=600&height=60&lines=👨‍💻+Passionate+Developer;🤖+Innovating+Robotics+%26+AI;📚+Lifelong+Learner;🌟+Building+Tomorrow+Today" alt="Typing Animation">
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12345678/123456789-animated-header.gif" alt="Animated Welcome" width="60%">
 </p>
 
 ---
